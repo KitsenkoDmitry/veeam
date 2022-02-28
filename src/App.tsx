@@ -82,7 +82,7 @@ function App() {
                                         })
                                     ) {
                                         errors.config =
-                                            'Wrong data: `items.type` can only be one of `number` , `text` , `textarea` , `checkbox` , `date` , `radio`';
+                                            'Wrong data: `items.type` can only be one of `number`, `text`, `textarea`, `checkbox`, `date`, `radio`';
                                     }
                                 }
 
